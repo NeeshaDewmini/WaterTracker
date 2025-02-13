@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334410966308",
+    "project_id": "loginsignuphome-20bff",
+    "storage_bucket": "loginsignuphome-20bff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334410966308:android:b90f898b3c0e9c489e7fb1",
+        "android_client_info": {
+          "package_name": "com.example.loginsignuphome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPxny4t6d1sr-gw_O5JwC34uRFKS5rtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

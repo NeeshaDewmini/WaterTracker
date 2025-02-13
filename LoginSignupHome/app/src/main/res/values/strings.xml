@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginSignupHome</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="login1">Login</string>
+    <string name="tips_education"><![CDATA[Tips & Education]]></string>
+</resources>
