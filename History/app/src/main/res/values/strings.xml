@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AddWater</string>
+    <string name="tips_education"><![CDATA[Tips & Education]]></string>
+    <string-array name="dropdown_items">
+        <item>View Logs</item>
+        <item>Other Option</item>
+    </string-array>
+</resources>

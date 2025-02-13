@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TableLayout
+        android:id="@+id/tableLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="*">
+
+        <TableRow>
+            <TextView android:text="Date" android:padding="8dp" android:textStyle="bold"/>
+            <TextView android:text="Time" android:padding="8dp" android:textStyle="bold"/>
+            <TextView android:text="Water Amount" android:padding="8dp" android:textStyle="bold"/>
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>
